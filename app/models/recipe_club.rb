@@ -1,0 +1,2 @@
+class RecipeClub < ApplicationRecord
+end
